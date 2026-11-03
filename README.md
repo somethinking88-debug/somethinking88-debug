@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="./dragon_banner.png" width="100%" alt="AI Engineer Dragon Banner"/>
+  <img src="./dragon-banner.png" width="100%" alt="AI Engineer Dragon Banner"/>
 </div>
 
 ## 👨‍💻 About Me
