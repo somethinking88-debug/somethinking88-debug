@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🐉 Hello, I'm an AI Engineer
+#  Hello, I'm an AI Engineer
 
 ### Building Intelligent Solutions with Artificial Intelligence
 
@@ -12,7 +12,7 @@
   <img src="./dragon-banner.png" width="100%" alt="AI Engineer Dragon Banner"/>
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm passionate about Artificial Intelligence, Machine Learning, and building intelligent applications that solve real-world problems.
 
